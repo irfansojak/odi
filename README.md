@@ -1,2 +1,2 @@
 # odi
-just codinng
+just coding
